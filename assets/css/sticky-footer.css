@@ -1,0 +1,11 @@
+/*Sticky footer css from link: https://getbootstrap.com/docs/4.3/examples/sticky-footer/sticky-footer.css*/
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+}
+
+.footer {
+    background-color: #f5f5f5;
+}
